@@ -9,3 +9,12 @@ Rendered vendor/ruby/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/
 
 
 Figure out where the bug is and how to fix it.  Please explain how you did so.
+
+
+To install:
+
+git clone git://github.com/pcg79/letter_opener_bug.git
+cd letter_opener_bug
+<accept .rvmrc file (or not)>
+bundle install
+bundle exec rails s
